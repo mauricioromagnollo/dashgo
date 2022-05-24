@@ -1,15 +1,16 @@
 # dashgo
 
-> An Dashboard developed using Chakra UI, Framer Motion, Emotion, React Icons and ApexCharts.
+>  An Dashboard developed using Next.js, TypeScript, Chakra UI, Framer Motion, Emotion, React Icons and ApexCharts. 
 
 ## Techs
 
-- [Next.js]()
-- [TypeScript]()
-- [React Icons]()
-- [Chakra UI]()
-- [Emotion]()
-- [Framer Motion]()
+- [Next.js](https://nextjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [React Icons](https://react-icons.github.io/react-icons/)
+- [Chakra UI](https://chakra-ui.com/)
+- [Emotion](https://emotion.sh/docs/introduction)
+- [Framer Motion](https://github.com/framer/motion/tree/main/packages/framer-motion)
+- [React Hook Form](https://react-hook-form.com/)
 - [ApexCharts.js](https://apexcharts.com/)
 
 ## Learned
@@ -19,5 +20,6 @@
 - Create Charts;
 - Responsivity;
 - Pagination;
+- Controlled/Uncontrolled Components;
 - Forms and Validations;
 - Dashboard;
