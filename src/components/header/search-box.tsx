@@ -4,7 +4,7 @@ import { RiSearchLine } from "react-icons/ri";
 
 export function SearchBox() {
 
-  const searchInputRef = useRef<HTMLInputElement>();
+  const searchInputRef = useRef<HTMLInputElement>(null);
 
   return (
     <Flex

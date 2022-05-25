@@ -11,6 +11,7 @@
 - [Emotion](https://emotion.sh/docs/introduction)
 - [Framer Motion](https://github.com/framer/motion/tree/main/packages/framer-motion)
 - [React Hook Form](https://react-hook-form.com/)
+- [Yup](https://github.com/jquense/yup)
 - [ApexCharts.js](https://apexcharts.com/)
 
 ## Learned
