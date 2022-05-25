@@ -14,6 +14,7 @@
 - [Yup](https://github.com/jquense/yup)
 - [ApexCharts.js](https://apexcharts.com/)
 - [React Query](https://react-query.tanstack.com/) &rarr; Fetch, cache and update data (Server State Library);
+- [Axios](https://github.com/axios/axios) &rarr; Promise based HTTP client;
 - [Mirage.js](https://miragejs.com/) &rarr; API mocking library;
 - [Faker](https://fakerjs.dev/) &rarr; Generate data for testing and development;
 
@@ -28,3 +29,6 @@
 - Forms and Validations;
 - Dashboard;
 - Data Fetching / Data Sync / Cache Local;
+- Stale While Revalidate;
+- Revalidate On Focus;
+- SSR;
