@@ -13,8 +13,9 @@
 - [React Hook Form](https://react-hook-form.com/)
 - [Yup](https://github.com/jquense/yup)
 - [ApexCharts.js](https://apexcharts.com/)
-- [React Query](https://react-query.tanstack.com/) &rarr; Fetch, cache and update data;
+- [React Query](https://react-query.tanstack.com/) &rarr; Fetch, cache and update data (Server State Library);
 - [Mirage.js](https://miragejs.com/) &rarr; API mocking library;
+- [Faker](https://fakerjs.dev/) &rarr; Generate data for testing and development;
 
 ## Learned
 
