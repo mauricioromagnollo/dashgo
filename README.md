@@ -13,6 +13,8 @@
 - [React Hook Form](https://react-hook-form.com/)
 - [Yup](https://github.com/jquense/yup)
 - [ApexCharts.js](https://apexcharts.com/)
+- [React Query](https://react-query.tanstack.com/) &rarr; Fetch, cache and update data;
+- [Mirage.js](https://miragejs.com/) &rarr; API mocking library;
 
 ## Learned
 
@@ -24,3 +26,4 @@
 - Controlled/Uncontrolled Components;
 - Forms and Validations;
 - Dashboard;
+- Data Fetching / Data Sync / Cache Local;
